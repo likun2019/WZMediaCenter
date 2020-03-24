@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint BXBookStoreSDK.podspec' to ensure this is a
+#  Be sure to run `pod spec lint WZMediaCenter.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see https://guides.cocoapods.org/syntax/podspec.html
@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.version      = "1.0.0"
   spec.summary      = ""
 
-  # This description is used to generate tags and improve search results.
+ # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
