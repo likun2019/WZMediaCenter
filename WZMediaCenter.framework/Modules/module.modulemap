@@ -1,0 +1,6 @@
+framework module WZMediaCenter {
+  umbrella header "WZMediaCenter.h"
+
+  export *
+  module * { export * }
+}
