@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "WZMediaCenter"
   spec.version      = "1.0.5"
-  spec.summary      = "广告"
+  spec.summary      = "广告SDK"
 
  # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
