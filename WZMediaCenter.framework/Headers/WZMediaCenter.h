@@ -13,10 +13,10 @@ NS_ASSUME_NONNULL_BEGIN
 @interface WZMediaCenter : NSObject
 
 + (instancetype)sharedInstance;
-/**
- SDK初始化方法，在启动的时候调用
- */
-+ (void)startMediaCenter;
+
+/// SDK初始化方法，在启动的时候调用
+/// @param channel 渠道号
++ (void)startMediaCenterWithChannel:(NSString *)channel;
 
 /**
  * 请求自定义AD

@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "WZMediaCenter"
-  spec.version      = "2.0.0"
+  spec.version      = "2.0.1"
   spec.summary      = "广告SDK"
 
  # This description is used to generate tags and improve search results.
@@ -89,7 +89,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files    = "WZMediaCenter.framework/Headers/*.{h}"
+  # spec.source_files    = "WZMediaCenter.framework/Headers/*.{h}"
   spec.vendored_frameworks = 'WZMediaCenter.framework'
   # spec.exclude_files = "Classes/Exclude"
 
